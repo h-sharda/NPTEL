@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.lang.*;
 public class W11_P5 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try {
             Connection conn = null;
             Statement stmt = null;
